@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **HTML,CSS,Javascript**
 
-- 📫 How to reach me **surajgoswami1469@gmail.com**
+- 📫 How to reach me **sg5191646@gmail.com**
 
 - ⚡ Fact **Dark Times Require Deep Imagination...!**
 
