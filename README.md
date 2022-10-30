@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, It's me Suraj Goswami</h1>
 <h3 align="center">A frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://bestanimations.com/Humans/funny-nerd-guy-animated-gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brocodexoo7&label=Profile%20views&color=0e75b6&style=flat" alt="brocodexoo7" /> </p>
 
